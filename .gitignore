@@ -1,3 +1,4 @@
 patient-data/export.zip
 patient-data/data.feather
 env/
+.ipynb_checkpoints/
